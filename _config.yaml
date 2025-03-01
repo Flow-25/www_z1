@@ -1,4 +1,4 @@
 title: "My Chess Openings"
 description: "A guide to chess openings"
 theme: null
-markdown: kramdown
+markdown: GFM
