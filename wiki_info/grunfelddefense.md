@@ -1,0 +1,15 @@
+# Grunfeld Defense
+
+![Opening image](https://www.thechesswebsite.com/wp-content/uploads/2012/07/grunfeld.jpg)
+
+The Grünfeld Defence is a chess opening characterised by the moves:
+
+
+
+1. d4 Nf6
+
+2. c4 g6
+
+3. Nc3 d5
+
+Black offers White the possibility of 4.cxd5, which may be followed by 4...Nxd5 and 5.e4, giving White an imposing central pawn duo. If White does not take the d5-pawn, Black may eventually play ...dxc4, when a White response of e4 again leads to the same pawn structure. In classical opening theory this imposing pawn centre was held to give White a large advantage, but the hypermodern school, which was coming to the fore in the 1920s, held that a large pawn centre could be a liability rather than an asset. The Grünfeld is therefore a key hypermodern opening, showing in stark terms how a large pawn centre can either be a powerful battering ram or a target for attack.

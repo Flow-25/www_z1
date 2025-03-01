@@ -1,0 +1,19 @@
+# Giuoco Piano
+
+![Opening image](https://www.thechesswebsite.com/wp-content/uploads/2015/08/the-giuoco-piano.jpg)
+
+The Giuoco Piano (pronounced [ˈdʒwɔːko ˈpjaːno]; Italian for 'Quiet Game') is a chess opening beginning with the moves:
+
+
+
+1. e4 e5
+
+2. Nf3 Nc6
+
+3. Bc4 Bc5
+
+"White aims to develop quickly – but so does Black. White can construct a pawn centre but in unfavourable conditions a centre which cannot provide a basis for further active play."
+
+The name "Italian Game" is also commonly used; however, that name is sometimes used instead to describe all openings starting 1.e4 e5 2.Nf3 Nc6 3.Bc4, including 3...Nf6 (the Two Knights Defence) and other less common replies.
+
+The Giuoco Piano is assigned codes C50 to C54 in the Encyclopaedia of Chess Openings.
