@@ -1,5 +1,12 @@
-title: "My Chess Openings"
+itle: "My Chess Openings"
 description: "A guide to chess openings"
 theme: minima
 markdown: kramdown
-permalink : pretty
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""  # Dotyczy wszystkich plików
+      type: "pages"
+    values:
+      layout: "default"
